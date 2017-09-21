@@ -1,9 +1,9 @@
 {
   "name": "droiv-vue",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "droiv-vue release",
   "bin": {
-    "create": "bin/create"
+    "create": "bin/"
   },
   "repository": {
     "type": "git",
