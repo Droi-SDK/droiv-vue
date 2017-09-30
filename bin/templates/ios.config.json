@@ -1,7 +1,7 @@
 {
   "AppName": "WeexApp",
-  "Version": "0.1",
-  "BuildVersion": "0.1.0",
+  "Version":"0.0.1",
+  "BuildVersion":"1",
   "AppId": "com.droibaas.WeexPlayground",
   "CodeSign": "iPhone Distribution: Zhexi Zhang (5K93T4P36N)",
   "Profile": "weexDemo_pro",

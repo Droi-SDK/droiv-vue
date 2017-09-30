@@ -1,7 +1,7 @@
 {
-    "name": "xxx",
+    "name": "droiv-vue-template",
     "version": "1.0.0",
-    "description": "a weex project",
+    "description": "a droiv project",
     "main": "index.js",
     "scripts": {
         "build": "webpack",
@@ -10,7 +10,7 @@
         "serve": "webpack-dev-server --config webpack.dev.js -p --open"
     },
     "keywords": [
-        "weex"
+        "droiv"
     ],
     "author": "",
     "license": "MIT",
